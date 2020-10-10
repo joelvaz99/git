@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         // john adicinou o metodo C
 
         //teste de branch
+
+        // teste de branch 2
     }
 }
